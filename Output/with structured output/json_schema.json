@@ -1,0 +1,12 @@
+{
+    "title": "Review", 
+    "description": "this schema is about reviews.",
+    "type": "object",
+    "properties": {
+        "name" : "string",
+        "age" : "inteager"
+    },
+    "required" : ["name"]
+    
+}
+

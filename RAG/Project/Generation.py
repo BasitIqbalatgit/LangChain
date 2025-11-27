@@ -17,7 +17,7 @@ def create_rag_chain(retriever):
         chain: A LangChain Runnable chain for RAG
     """
     # Initialize the model
-    model = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
+    model = ChatOpenAI(model="gpt-4.1-mini", temperature=0)
     
     parser = StrOutputParser()
     

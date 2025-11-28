@@ -1,0 +1,11 @@
+duckduckgo-search
+langchain
+langchain-core
+langchain-community
+langchain-openai
+ddgs
+pydantic
+langchain-experimental
+streamlit
+python-dotenv
+bs4
